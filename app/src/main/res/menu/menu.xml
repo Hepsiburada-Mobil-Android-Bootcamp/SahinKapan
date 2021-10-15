@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="#EE1D81">
+    <item
+        android:id="@+id/ic_musics"
+        android:icon="@drawable/solo_icon"
+        android:title="Musics"
+        app:cnb_iconColor="#EE1D81" />
+    <item
+        android:id="@+id/ic_favourite"
+        android:icon="@drawable/favorite_icon"
+        android:title="Favourites"
+        app:cnb_iconColor="#EE1D81"/>
+
+    <item
+        android:id="@+id/ic_search"
+        android:icon="@drawable/search_icon"
+        android:title="Search"
+        app:cnb_iconColor="#EE1D81"/>
+
+    <item
+        android:id="@+id/ic_message"
+        android:icon="@drawable/message_icon"
+        android:title="Message"
+        app:cnb_iconColor="#EE1D81"/>
+
+
+
+</menu>

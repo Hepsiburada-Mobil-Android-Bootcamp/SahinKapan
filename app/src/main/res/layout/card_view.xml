@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:layout_margin="10dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:backgroundTint="#EE1D81"
+        app:cardCornerRadius="15dp"
+        android:layout_gravity="center"
+        >
+        <ImageView
+            android:id="@+id/sign_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/songs_icon"
+            android:layout_gravity="center"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/signs_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/poppins_medium"
+        tools:text="Songs"
+        android:textColor="@color/black"/>
+
+
+</LinearLayout>

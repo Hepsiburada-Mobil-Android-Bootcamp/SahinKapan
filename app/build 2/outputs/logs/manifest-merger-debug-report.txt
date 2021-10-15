@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/sahinkapan/.gradle/caches/transforms-3/5ccd8eded1fffd43ff8baf2245ad1388/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/sahinkapan/.gradle/caches/transforms-3/ddd8d75c90f07ea3f11945418700b9bd/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/5a63fb4020efb873ec2e7bce69970fa3/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.fxn769:ariana:1.0] /Users/sahinkapan/.gradle/caches/transforms-3/1fe82cc3811d5e3c6a2698490d76008c/transformed/jetified-ariana-1.0/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/2f84810d165c4860bb097fe6323c9256/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.ismaeldivita.chipnavigation:chip-navigation-bar:1.2.0] /Users/sahinkapan/.gradle/caches/transforms-3/fda173ed10b742350df4b8876c57bbef/transformed/jetified-chip-navigation-bar-1.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/8425aded434557a5b19d3fc8fa86b08b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/39429d912fd501ae2a1e6ad5d50b93b8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sahinkapan/.gradle/caches/transforms-3/185cfd2fa0f473107dcb10a8a751f2da/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/4790aa6c1853a4eecb361fb0d7045b22/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sahinkapan/.gradle/caches/transforms-3/9e42c5c4558ba8aa11414d66ef03f5df/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/sahinkapan/.gradle/caches/transforms-3/6d1c505667115925e9974edbf2e6c428/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/299791b00445e7bcb9748c7e9550abda/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/e7a0e264ceb52bb71d2c47aa2f6ec298/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/cd6bdec3ac90a8cd88ee2782241d8f04/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/5c0eeccea06530fd7a33114583b98228/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/627ad5b001525e014ee193d34a8f4e61/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sahinkapan/.gradle/caches/transforms-3/8c121a7d2bf20cce38e310e6e74d1516/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/11a97df905a7f939d23bcb451841a1c6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/b5a92b8733d39be183adf9d3b08d0bca/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/6214f2cb464517b8f9cb3b231afad83e/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/79fa88e4af4eb60477fbe7c6c414176d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/5ee7552e0d0420069dd0cb27dba51bad/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/23e73b3eb50fd6179a25ac7e8bdbb0a7/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/304518833570c538efd92a85b8d63383/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/6993ce3df825aa893f6e5549a90f981f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/e7a02e35c992fe529de7587705df9594/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/b9954009d85425f0f7130c1a723c8aa2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/sahinkapan/.gradle/caches/transforms-3/934966bc8514f38a2b76a2bf5dc4077b/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/69b0ed84c8326ee4df6ae3bccc5c2070/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/62e6325d43c773c562769c22ff5d541f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/37aa1b4f2c0c162c463acdb3a82bf333/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/e3d0a26bafc87b0383f1aa770bd221a7/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/0105e9586bdc899963b689ed20e042e1/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/12ac906359158c15b93e0a4e7aa14896/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/282337ae1bd3f394bfd66f21442b8bbe/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/4821056a0d19771db454bb2633ee8def/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/f29b381dc48a8a362d76e9adbd8b5a6b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/eac2d29d5b36b556f79f6742e4e4e70f/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/b57947e2afbfe2179b8dfb35692e7386/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/ee3b6bc137d53a53ccef5f35c3443a4c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/e90d55fcc20397c1211f141d76277f84/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/7a409b341677a24b01180a4a6e0b4ff9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/453c54ebad23e3739714aff701022837/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/sahinkapan/.gradle/caches/transforms-3/ddd8d75c90f07ea3f11945418700b9bd/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/sahinkapan/.gradle/caches/transforms-3/ddd8d75c90f07ea3f11945418700b9bd/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/5a63fb4020efb873ec2e7bce69970fa3/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/5a63fb4020efb873ec2e7bce69970fa3/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.fxn769:ariana:1.0] /Users/sahinkapan/.gradle/caches/transforms-3/1fe82cc3811d5e3c6a2698490d76008c/transformed/jetified-ariana-1.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.fxn769:ariana:1.0] /Users/sahinkapan/.gradle/caches/transforms-3/1fe82cc3811d5e3c6a2698490d76008c/transformed/jetified-ariana-1.0/AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.core:core:1.6.0] /Users/sahinkapan/.gradle/caches/transforms-3/934966bc8514f38a2b76a2bf5dc4077b/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/sahinkapan/.gradle/caches/transforms-3/934966bc8514f38a2b76a2bf5dc4077b/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/12ac906359158c15b93e0a4e7aa14896/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/12ac906359158c15b93e0a4e7aa14896/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/sahinkapan/.gradle/caches/transforms-3/934966bc8514f38a2b76a2bf5dc4077b/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:11:9-52
+activity#com.example.mymusiclistapp.MusicListActivity
+ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:12:9-14:39
+	android:exported
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:13:13-46
+activity#com.example.mymusiclistapp.MainActivity
+ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:25:9-27:57
+	android:resource
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:27:13-54
+	android:name
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml:26:13-43
+uses-sdk
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/sahinkapan/.gradle/caches/transforms-3/5ccd8eded1fffd43ff8baf2245ad1388/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/sahinkapan/.gradle/caches/transforms-3/5ccd8eded1fffd43ff8baf2245ad1388/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/sahinkapan/.gradle/caches/transforms-3/ddd8d75c90f07ea3f11945418700b9bd/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/sahinkapan/.gradle/caches/transforms-3/ddd8d75c90f07ea3f11945418700b9bd/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/5a63fb4020efb873ec2e7bce69970fa3/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/5a63fb4020efb873ec2e7bce69970fa3/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.fxn769:ariana:1.0] /Users/sahinkapan/.gradle/caches/transforms-3/1fe82cc3811d5e3c6a2698490d76008c/transformed/jetified-ariana-1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.fxn769:ariana:1.0] /Users/sahinkapan/.gradle/caches/transforms-3/1fe82cc3811d5e3c6a2698490d76008c/transformed/jetified-ariana-1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/2f84810d165c4860bb097fe6323c9256/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/2f84810d165c4860bb097fe6323c9256/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.ismaeldivita.chipnavigation:chip-navigation-bar:1.2.0] /Users/sahinkapan/.gradle/caches/transforms-3/fda173ed10b742350df4b8876c57bbef/transformed/jetified-chip-navigation-bar-1.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ismaeldivita.chipnavigation:chip-navigation-bar:1.2.0] /Users/sahinkapan/.gradle/caches/transforms-3/fda173ed10b742350df4b8876c57bbef/transformed/jetified-chip-navigation-bar-1.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/8425aded434557a5b19d3fc8fa86b08b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/8425aded434557a5b19d3fc8fa86b08b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/39429d912fd501ae2a1e6ad5d50b93b8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/39429d912fd501ae2a1e6ad5d50b93b8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sahinkapan/.gradle/caches/transforms-3/185cfd2fa0f473107dcb10a8a751f2da/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sahinkapan/.gradle/caches/transforms-3/185cfd2fa0f473107dcb10a8a751f2da/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/4790aa6c1853a4eecb361fb0d7045b22/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/4790aa6c1853a4eecb361fb0d7045b22/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sahinkapan/.gradle/caches/transforms-3/9e42c5c4558ba8aa11414d66ef03f5df/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sahinkapan/.gradle/caches/transforms-3/9e42c5c4558ba8aa11414d66ef03f5df/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/sahinkapan/.gradle/caches/transforms-3/6d1c505667115925e9974edbf2e6c428/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/sahinkapan/.gradle/caches/transforms-3/6d1c505667115925e9974edbf2e6c428/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/299791b00445e7bcb9748c7e9550abda/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/299791b00445e7bcb9748c7e9550abda/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/e7a0e264ceb52bb71d2c47aa2f6ec298/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/e7a0e264ceb52bb71d2c47aa2f6ec298/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/cd6bdec3ac90a8cd88ee2782241d8f04/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/cd6bdec3ac90a8cd88ee2782241d8f04/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/5c0eeccea06530fd7a33114583b98228/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/5c0eeccea06530fd7a33114583b98228/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/627ad5b001525e014ee193d34a8f4e61/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/627ad5b001525e014ee193d34a8f4e61/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sahinkapan/.gradle/caches/transforms-3/8c121a7d2bf20cce38e310e6e74d1516/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sahinkapan/.gradle/caches/transforms-3/8c121a7d2bf20cce38e310e6e74d1516/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/11a97df905a7f939d23bcb451841a1c6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/11a97df905a7f939d23bcb451841a1c6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/b5a92b8733d39be183adf9d3b08d0bca/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/b5a92b8733d39be183adf9d3b08d0bca/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/6214f2cb464517b8f9cb3b231afad83e/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/6214f2cb464517b8f9cb3b231afad83e/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/79fa88e4af4eb60477fbe7c6c414176d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/79fa88e4af4eb60477fbe7c6c414176d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/5ee7552e0d0420069dd0cb27dba51bad/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/5ee7552e0d0420069dd0cb27dba51bad/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/23e73b3eb50fd6179a25ac7e8bdbb0a7/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/23e73b3eb50fd6179a25ac7e8bdbb0a7/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/304518833570c538efd92a85b8d63383/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/304518833570c538efd92a85b8d63383/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/6993ce3df825aa893f6e5549a90f981f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/6993ce3df825aa893f6e5549a90f981f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/e7a02e35c992fe529de7587705df9594/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/e7a02e35c992fe529de7587705df9594/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/b9954009d85425f0f7130c1a723c8aa2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/b9954009d85425f0f7130c1a723c8aa2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/sahinkapan/.gradle/caches/transforms-3/934966bc8514f38a2b76a2bf5dc4077b/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/sahinkapan/.gradle/caches/transforms-3/934966bc8514f38a2b76a2bf5dc4077b/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/69b0ed84c8326ee4df6ae3bccc5c2070/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/69b0ed84c8326ee4df6ae3bccc5c2070/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/62e6325d43c773c562769c22ff5d541f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/62e6325d43c773c562769c22ff5d541f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/37aa1b4f2c0c162c463acdb3a82bf333/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/37aa1b4f2c0c162c463acdb3a82bf333/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/e3d0a26bafc87b0383f1aa770bd221a7/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/e3d0a26bafc87b0383f1aa770bd221a7/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/0105e9586bdc899963b689ed20e042e1/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/0105e9586bdc899963b689ed20e042e1/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/12ac906359158c15b93e0a4e7aa14896/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sahinkapan/.gradle/caches/transforms-3/12ac906359158c15b93e0a4e7aa14896/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/282337ae1bd3f394bfd66f21442b8bbe/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/282337ae1bd3f394bfd66f21442b8bbe/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/4821056a0d19771db454bb2633ee8def/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/4821056a0d19771db454bb2633ee8def/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/f29b381dc48a8a362d76e9adbd8b5a6b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sahinkapan/.gradle/caches/transforms-3/f29b381dc48a8a362d76e9adbd8b5a6b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/eac2d29d5b36b556f79f6742e4e4e70f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/eac2d29d5b36b556f79f6742e4e4e70f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/b57947e2afbfe2179b8dfb35692e7386/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/b57947e2afbfe2179b8dfb35692e7386/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/ee3b6bc137d53a53ccef5f35c3443a4c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/ee3b6bc137d53a53ccef5f35c3443a4c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/e90d55fcc20397c1211f141d76277f84/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/e90d55fcc20397c1211f141d76277f84/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/7a409b341677a24b01180a4a6e0b4ff9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sahinkapan/.gradle/caches/transforms-3/7a409b341677a24b01180a4a6e0b4ff9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/453c54ebad23e3739714aff701022837/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sahinkapan/.gradle/caches/transforms-3/453c54ebad23e3739714aff701022837/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sahinkapan/Desktop/bootcampProjeler/MyMusicListApp/app/src/main/AndroidManifest.xml
